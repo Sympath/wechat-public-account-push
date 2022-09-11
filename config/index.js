@@ -37,9 +37,9 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "NASBEDbmATSX19hcaV5fx30KAvrEK6R8QKXdY4hYm4E",
       // 所在省份
-      province: "东北",
+      province: "广东",
       // 所在城市
-      city: "沈阳",
+      city: "肇庆",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "http://zzmwzy.gitee.io/tao-pic/"
     }, 
@@ -62,9 +62,9 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "NASBEDbmATSX19hcaV5fx30KAvrEK6R8QKXdY4hYm4E",
       // 所在省份
-      province: "东北",
+      province: "广东",
       // 所在城市
-      city: "沈阳",
+      city: "肇庆",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "http://zzmwzy.gitee.io/tao-pic/"
     }, 
