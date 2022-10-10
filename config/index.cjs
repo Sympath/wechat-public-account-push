@@ -99,7 +99,7 @@ const USER_CONFIG = {
   FESTIVALS: [
     {"type": "生日", "name": "啊桃", "year": "1997", "date": "04-22"},
     {"type": "生日", "name": "啊远", "year": "1997", "date": "04-19"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "05-11"},
+    // {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "05-11"},
   ],
 
   /**
