@@ -42,7 +42,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oRyeO6aWZineh4ZKNESQRhjSWJ4o",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "zdzHt1WkbJhhRrTA4gJpLLJXicvkFudBFnZyb6N8alY",
+      useTemplateId: "GGQpQ4aP8EAXhi-RH9jcunmMCBiIlp-xrV8hyJbjpbE",
       // 所在省份
       province: "浙江",
       // 所在城市
@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oRyeO6YeZqx1h94fYePaFZQWBt9g",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "zdzHt1WkbJhhRrTA4gJpLLJXicvkFudBFnZyb6N8alY",
+      useTemplateId: "GGQpQ4aP8EAXhi-RH9jcunmMCBiIlp-xrV8hyJbjpbE",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -98,8 +98,7 @@ const USER_CONFIG = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "老婆", "year": "1997", "date": "04-22"},
-    {"type": "节日", "name": "在一起纪念日", "year": "2021", "date": "04-14"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "04-11"},
+    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "05-11"},
   ],
 
   /**
@@ -117,7 +116,7 @@ const USER_CONFIG = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-04-11"},
+    {"keyword": "love_day", date: "2021-05-11"},
     // 结婚纪念日
     // {"keyword": "marry_day", date: "2020-01-04"},
     // sakana日
