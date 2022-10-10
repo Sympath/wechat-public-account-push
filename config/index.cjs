@@ -42,7 +42,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oRyeO6aWZineh4ZKNESQRhjSWJ4o",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "GGQpQ4aP8EAXhi-RH9jcunmMCBiIlp-xrV8hyJbjpbE",
+      useTemplateId: "M4gse4cSaWR53jZW7hsG6SHJSQpFF8l7yCX9sUdR4Uc",
       // 所在省份
       province: "浙江",
       // 所在城市
@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oRyeO6YeZqx1h94fYePaFZQWBt9g",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "GGQpQ4aP8EAXhi-RH9jcunmMCBiIlp-xrV8hyJbjpbE",
+      useTemplateId: "M4gse4cSaWR53jZW7hsG6SHJSQpFF8l7yCX9sUdR4Uc",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -84,9 +84,9 @@ const USER_CONFIG = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广东",
+  PROVINCE: "浙江",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "杭州",
 
   /** 重要节日相关 */
 
@@ -97,7 +97,8 @@ const USER_CONFIG = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1997", "date": "04-22"},
+    {"type": "生日", "name": "啊桃", "year": "1997", "date": "04-22"},
+    {"type": "生日", "name": "啊远", "year": "1997", "date": "04-19"},
     {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "05-11"},
   ],
 
